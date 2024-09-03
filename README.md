@@ -1,4 +1,7 @@
-## Hi there 👋
+
+<p align="center">
+  <img src="https://i.redd.it/xso2r53a1b1a1.gif" alt="Centered Image">
+</p>
 
 <!--
 **HiengDara/HiengDara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
